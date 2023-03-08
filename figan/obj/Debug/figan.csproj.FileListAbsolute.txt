@@ -1,0 +1,11 @@
+D:\figan\figan\bin\Debug\figan.exe.config
+D:\figan\figan\bin\Debug\figan.exe
+D:\figan\figan\bin\Debug\figan.pdb
+D:\figan\figan\obj\Debug\figan.csproj.AssemblyReference.cache
+D:\figan\figan\obj\Debug\figan.csproj.SuggestedBindingRedirects.cache
+D:\figan\figan\obj\Debug\figan.Form1.resources
+D:\figan\figan\obj\Debug\figan.Properties.Resources.resources
+D:\figan\figan\obj\Debug\figan.csproj.GenerateResource.cache
+D:\figan\figan\obj\Debug\figan.csproj.CoreCompileInputs.cache
+D:\figan\figan\obj\Debug\figan.exe
+D:\figan\figan\obj\Debug\figan.pdb
